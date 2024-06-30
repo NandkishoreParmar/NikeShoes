@@ -1,0 +1,38 @@
+/* <!-- ++++++++++++++++++++++++++++++++ Nandkishore Parmar +++++++++++++++++++++++++++++++++++++++++++ --> */
+nav{
+    background-color: rgb(35, 32, 32);
+}
+#div1{
+    background-color: rgb(35, 32, 32);
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 1300px;
+    margin:auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 0px;
+}
+#a1{
+    margin-right: 450px;
+    /* margin-left: -400px; */
+    color: white;
+}
+#adityaimg{
+    width:50px;
+    margin-left: 20px;
+} 
+
+#icon{
+    color: white;
+    margin-left: 100px;
+    border-left: 2px solid ;
+    padding-left: 15px;
+}
+span{
+    color: white;
+    margin-left: 20px;
+}
+/* <!-- ++++++++++++++++++++++++++++++++ Nandkishore Parmar +++++++++++++++++++++++++++++++++++++++++++ --> */
